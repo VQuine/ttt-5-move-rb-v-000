@@ -2,11 +2,11 @@
 
 require_relative '../lib/move.rb'
 #Blank board variable
-
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 #Greeting to user
 puts "Welcome to Tic Tac Toe!"
 
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
 #Blank board for viewing pleasure
 
 puts display_board(board)
