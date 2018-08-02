@@ -19,4 +19,4 @@ index = input_to_index(input)
 # Yeah, I have no clue..
 move(board, index)
 
-display_board(board) 
+display_board(board)
